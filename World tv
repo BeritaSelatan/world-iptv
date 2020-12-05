@@ -1,1 +1,159 @@
 
+#EXTM3U
+#EXTINF:-1 group-title="Myanmar TV",Mahar Bhawdi
+https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+#EXTINF:-1 group-title="Myanmar TV",MRTV-4
+https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+#EXTINF:-1 group-title="Myanmar TV",Channel-7
+https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+#EXTINF:-1 group-title="Myanmar TV",Mahar TV
+http://167.71.222.33:1935/channel/mahar-isps.smil/mahar-isps.m3u8
+#EXTINF:-1 group-title="Myanmar TV",Channel K
+https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8
+#EXTINF:-1 group-title="Myanmar TV",Fortune TV
+http://live-aec.sky-cdn.com/aec_live/Fortune.stream_360p/chunklist_w1408103827.m3u8
+#EXTINF:-1 tgroup-title="Myanmar TV",Mizzima TV
+https://l1-xl1.myanmarnet.com/relay/mizzima/ch1/stream_hi/index.m3u8
+#EXTINF:-1 group-title="Myanmar TV",DVB
+https://l1-xl1.myanmarnet.com/relay/dvb/ch1/stream_hi/index.m3u8
+#EXTINF:-1 group-title="Myanmar TV",MWD Movie
+http://203.81.84.130/hls/mwd_serie/index.m3u8
+#EXTINF:-1 group-title="Myanmar TV",MNTV
+http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
+#EXTINF:-1 group-title="Myanmar TV",MRTV
+http://203.81.81.230/hls-live/livepkgr/_definst_/mrtv/mrtv.m3u8
+#EXTINF:-1 group-title="Myanmar TV",MVTV MYANMAR
+https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports1.png" group-title="SPORTS",SKYNET SPORT1
+https://rebrand.ly/2020/Skynetsport1-playlist_m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports2.png" group-title="SPORTS",SKYNET SPORT2
+https://rebrand.ly/2020/Skynetsport2-playlist_m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports3.png" group-title="SPORTS",SKYNET SPORT3
+https://rebrand.ly/2020/Skynetsport3-playlist_m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports4.png" group-title="SPORTS",SKYNET SPORT4
+https://rebrand.ly/2020/Skynetsport4-playlist_m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports5.png" group-title="SPORTS",SKYNET SPORT5
+https://rebrand.ly/2020/Skynetsport5-playlist_m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports6.png" group-title="SPORTS",SKYNET SPORT6
+https://rebrand.ly/2020/Skynetsport6-playlist_m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsportshd.png" group-title="SPORTS",SKYNET SPORT HD
+http://thaicable.myftp.org:8000/live/infosat/2020/105.ts
+
+#EXTINF:-1 group-title="SPORTS",UCL LIVE1
+https://vcdnjt.useetv.com/dass/15/champion1/chunklist_w2141102661_b894100_sleng_57560.m3u8
+#EXTINF:-1 group-title="SPORTS",UCL LIVE2
+https://vcdnjt.useetv.com/dass/15/champion2/chunklist_w670832473_b894100_sleng_4798.m3u8
+ 
+#EXTINF:-1 group-title="SPORTS",BT SPORT 1HD
+https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS",BT SPORT 2HD
+https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="SPORTS",BEINSPORT 1
+https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS",BEINSPORT 2
+https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="SPORTS",THAI BEINSPORT 1
+https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS",THAI BEINSPORT 2
+https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="SPORTS",Premier 1HD
+https://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS",Premier 2HD
+https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS",Premier 1SD
+https://sport.livedoomovie.com/02_PremierHD1_480p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS",Premier 2SD
+https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="SPORTS",SPORTTV 1HD
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS",SPORTTV 2HD
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS",SPORTTV 3HD
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS",SPORTTV 4HD
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS",SPORTTV 5HD
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="SPORTS",FOXSPORT 1
+https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS",FOXSPORT 2
+https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS",FOXSPORT 3
+https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="SPORTS",SCTV
+https://m3u-editor.com/serve/8a4433b0/145447214.m3u8
+#EXTINF:-1 group-title="SPORTS",CCTV-5
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225711/index.m3u8
+#EXTINF:-1 group-title="SPORTS",CCTV-5+
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8
+#EXTINF:-1 group-title="SPORTS",PPTVHD
+https://www.livedoomovies.com/02_PPTVHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS",MUTV
+https://www.livedoomovies.com/02_MUTV_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS",ChelseaTV
+https://www.livedoomovies.com/02_ChelseaTV_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS",LFCTV
+https://www.livedoomovies.com/02_lfctv_720p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="MOVIE",WBTV
+https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="MOVIE",AXN
+https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="MOVIE",FoxMovies
+https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="MOVIE",HBO
+https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="MOVIE",HBOHit
+https://www.livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
+#EXTINF:-1 group-title="MOVIE",FoxThai
+https://www.livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="MOVIE",HITSMOVIE
+https://www.livedoomovies.com/02_HITSMOVIE_720p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="CARTOON",Cartoon Network
+https://www.livedoomovies.com/02_CartoonNetwork_720p/chunklist.m3u8
+#EXTINF:-1 group-title="CARTOON",Baby First
+https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="CARTOON",CBeebies
+http://51.52.156.22:8888/http/003
+#EXTINF:-1 group-title="CARTOON",POP Max
+https://edge-1192-ch-gv.filmon.com/live/316.high.stream/playlist.m3u8
+#EXTINF:-1 roup-title="CARTOON",Tiny Pop
+https://edge-1192-ch-gv.filmon.com/live/318.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="CARTOON",TRT Cocuk(Turki)
+https://tv-trtcocuk.live.trt.com.tr/master.m3u8
+ 
+#EXTINF:-1 group-title="Discovery",NATGEO Wild
+https://www.livedoomovies.com/02_NatGeoWild_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Discovery",BBCEARTH
+https://www.livedoomovies.com/02_BBCEARTH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Discovery",AnimalPlanet
+https://www.livedoomovies.com/02_AnimalPlanet/chunklist.m3u8
+#EXTINF:-1 group-title="Discovery",DiscoveryChannel
+https://www.livedoomovies.com/02_DiscoveryChannel/chunklist.m3u8
+#EXTINF:-1 group-title="Discovery",DiscoveryHDWorld
+https://www.livedoomovies.com/02_DiscoveryHDWorld/chunklist.m3u8
+#EXTINF:-1 group-title="Discovery",H2HD
+https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Discovery",HISTORYHD
+https://www.livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8
+ 
+#EXTINF:-1 group-title="MUSIC",VH1 Music
+http://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+#EXTINF:-1 group-title="MUSIC",THEBOX MUSIC
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
+#EXTINF:-1 group-title="MUSIC",BOXHITS MUSIC
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+#EXTINF:-1 group-title="MUSIC",ZING MUSIC
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zing/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC",KADAK HITS
+https://live.hungama.com/linear/kadak-hits/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC",MTV MUSIC
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
